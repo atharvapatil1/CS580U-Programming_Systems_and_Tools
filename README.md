@@ -19,7 +19,6 @@ Implementations of classic data structures in C for CS580U.
 |-------------|-------|----------|
 | 1. Atharva Patil|apatil6@binghamton.edu|B01014288|
 | 2. Sagar Pise|spise@binghamton.edu|B01039414|
-| 3.
 
 ## Prerequisites
 
